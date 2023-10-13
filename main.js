@@ -1,3 +1,10 @@
+let zmienna = 11
+if (zmienna > 10) {
+  console.log('Podana liczba jest większa od 10');
+} else {
+  console.log('Podana liczba nie jest wieksza od 10');
+}
+
 
 /* Stwórz dokument HTML. Stwórz plik main.js w odpowiednim folderze i podepnij go pod plik HTML.
 
